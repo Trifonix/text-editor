@@ -1,1 +1,1 @@
-# text-editor
+# text-editor from scratch on C
